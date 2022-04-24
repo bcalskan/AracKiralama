@@ -1,4 +1,4 @@
-package RentACar;
+package rentACar;
 
 public class AracTalebi {
     //pojo class
