@@ -1,13 +1,12 @@
 package depoYönetimi;
 
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 public class DepoYönet {
     static Scanner scan = new Scanner(System.in);
     static HashMap<Integer, Ürünler> ürünListesi = new HashMap<>();
-    int id = 1000;
+    int id = 100;
 
 
     public void start() {
@@ -118,7 +117,6 @@ public class DepoYönet {
         System.out.println(id + " : " + ürünListesi.get(id));
         id++;
 
-        //String ürünId, String ürünIsmi, String üretici, String birim, String raf, int ürünMiktari
     }
 
 }

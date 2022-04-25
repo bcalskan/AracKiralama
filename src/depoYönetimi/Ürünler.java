@@ -61,5 +61,14 @@ public class Ürünler {
         this.ürünMiktari = ürünMiktari;
     }
 
-
+    @Override
+    public String toString() {
+        return "Ürünler{" +
+                "ürünIsmi='" + ürünIsmi + '\'' +
+                ", üretici='" + üretici + '\'' +
+                ", ürünMiktari=" + ürünMiktari +
+                ", birim='" + birim + '\'' +
+                ", raf='" + raf + '\'' +
+                '}';
+    }
 }
