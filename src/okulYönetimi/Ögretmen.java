@@ -51,7 +51,7 @@ public class Ögretmen {
                 case "A":
                     Depo.anaMenü();
                     break;
-                case "Q":
+                case "mayinTarlasi":
                 case "q":
                     Depo.cikisYap();
                     break;
@@ -60,7 +60,7 @@ public class Ögretmen {
             }
 
 
-        } while (!ögretmenSecim.equalsIgnoreCase("Q"));
+        } while (!ögretmenSecim.equalsIgnoreCase("mayinTarlasi"));
         Depo.cikisYap();
     }
 

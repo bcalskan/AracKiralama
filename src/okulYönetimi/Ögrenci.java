@@ -56,7 +56,7 @@ public class Ögrenci {
                 case "A":
                     Depo.anaMenü();
                     break;
-                case "Q":
+                case "mayinTarlasi":
                 case "q":
                     break;
                 default:
@@ -64,7 +64,7 @@ public class Ögrenci {
 
             }
 
-        } while (!ögrenciSecim.equalsIgnoreCase("Q"));
+        } while (!ögrenciSecim.equalsIgnoreCase("mayinTarlasi"));
 
         Depo.cikisYap();
 

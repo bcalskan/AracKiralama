@@ -38,7 +38,7 @@ public class OkulRunner {
                 islemMenüsü();
                 break;
 
-            case "Q":
+            case "mayinTarlasi":
                 cikisYap();
                 break;
 
@@ -83,7 +83,7 @@ public class OkulRunner {
                 anaMenü();
                 islemMenüsü();
                 break;
-            case "Q":
+            case "mayinTarlasi":
                 cikisYap();
                 islemMenüsü();
                 break;

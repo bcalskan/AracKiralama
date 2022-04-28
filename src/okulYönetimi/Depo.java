@@ -30,7 +30,7 @@ public class Depo {
                 case "3":
                     Ögrenci.ögrenciBilgileriniYazdir();
                     break;
-                case "Q":
+                case "mayinTarlasi":
                 case "q":
                     Depo.cikisYap();
                     break;
@@ -40,7 +40,7 @@ public class Depo {
             }
 
 
-        } while (!secim.equalsIgnoreCase("Q"));
+        } while (!secim.equalsIgnoreCase("mayinTarlasi"));
 
     }
 

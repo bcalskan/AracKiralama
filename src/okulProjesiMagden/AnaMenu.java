@@ -1,6 +1,5 @@
 package okulProjesiMagden;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class AnaMenu implements AnaMenuInterface{
@@ -22,7 +21,7 @@ public class AnaMenu implements AnaMenuInterface{
             case "2":
                 object.ogretmenIslemlerı();
                 break;
-            case "Q":
+            case "mayinTarlasi":
                 object.cikis();
                 break;
             default :

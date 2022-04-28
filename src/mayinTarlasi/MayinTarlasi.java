@@ -1,4 +1,4 @@
-package Q;
+package mayinTarlasi;
 
 
 import java.util.Random;

@@ -14,7 +14,7 @@ BİR OKUL YÖNETİM PLATFORMU KODLAYINIZ.
 	====================================
 	 1- ÖĞRENCİ İŞLEMLERİ
 	 2- ÖĞRETMEN İŞLEMLERİ
-	 Q- ÇIKIŞ
+	 mayinTarlasi- ÇIKIŞ
 
 	3.	Seçilen Kişi türüne göre aşağıdaki işlemleri gösteren bir alt menü daha gösterilsin.
 
@@ -24,7 +24,7 @@ BİR OKUL YÖNETİM PLATFORMU KODLAYINIZ.
 		 3-LİSTELEME
 		 4-SİLME
 		 5-ANA MENÜ
-		 Q-ÇIKIŞ
+		 mayinTarlasi-ÇIKIŞ
 
 	SEÇİMİNİZ:
 
