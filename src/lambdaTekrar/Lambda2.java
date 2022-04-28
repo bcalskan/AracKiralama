@@ -24,6 +24,7 @@ public class Lambda2 {
         System.out.println("\n----------------");
 
 
+
     }
 
     // Task : Functional Programming ile listin cift elemanlarinin  karelerini ayni satirda aralarina bosluk bırakarak print ediniz
